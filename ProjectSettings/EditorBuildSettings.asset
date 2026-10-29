@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/LoginScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/QRScannerScene.unity
+    guid: 26c91a3351054c7438d909389ed735bf
+  - enabled: 0
+    path: Assets/Scenes/uploadRetrieve.unity
+    guid: 4d4e56916d9e31844ba89079347c76b5
+  - enabled: 1
+    path: Assets/Scenes/startanimation.unity
+    guid: 89849fd15a2d7444ba48b830be863c6b
+  - enabled: 1
+    path: Assets/Scenes/getstarted.unity
+    guid: e50be07c185398f48b90f112ad495c7b
+  - enabled: 1
+    path: Assets/Scenes/demo.unity
+    guid: 1dfcc345fc07d8e4eb450d76aea5390b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a2b4eb9a8bcfddb49858ed3d29621164, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8bcc5af5502e5724090b959c25f3a95e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d24090b43d1ab7a41b364b6c106225b8, type: 2}

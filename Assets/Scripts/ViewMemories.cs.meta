@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 95c27320a89bb784c90709dbee64218d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - memoryItemPrefab: {fileID: 8644225458743812499, guid: 1906d81f320bc7349bf9e64f84a3989b, type: 3}
+  - memoryScrollViewContent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
